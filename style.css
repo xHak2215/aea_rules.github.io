@@ -98,7 +98,6 @@
             color: var(--accent);
             display: inline-block;
             width: 1em;
-            margin-left: -1em;
             position: absolute;
             left: 0;
         }

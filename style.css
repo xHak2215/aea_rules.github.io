@@ -8,6 +8,7 @@
         }
 
         body {
+
             background-color: var(--dark);
             color: var(--light);
             font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;

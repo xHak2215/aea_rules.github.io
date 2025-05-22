@@ -96,7 +96,6 @@
         li:before {
             content: '•';
             color: var(--accent);
-            font-weight: bold;
             display: inline-block;
             width: 1em;
             margin-left: -1em;

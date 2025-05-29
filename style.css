@@ -138,3 +138,21 @@
                 font-size: 2rem;
             }
         }
+
+@media (prefers-color-scheme: dark) {
+ body {
+  background-color: var(--dark);
+  }
+}
+
+@media (prefers-color-scheme: no-preference) {
+ body {
+  background-color: var(--dark);
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: var(--light);
+  }
+}

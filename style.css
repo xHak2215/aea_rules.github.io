@@ -179,4 +179,10 @@ body {
         max-width: 900px;
         margin: 0 auto;
   }
+  .footer {
+        text-align: center;
+        margin-top: 40px;
+        font-style: italic;
+        color: #0a4402;
+        }
 }

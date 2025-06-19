@@ -171,12 +171,12 @@ body {
   body {
         Cache-Control: public
         color: var(--dark);
-        background-color: var(--light);
+        background-color: #646464;
         font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
         line-height: 1.6;
-         margin: 0;
-         padding: 20px;
-         max-width: 900px;
-         margin: 0 auto;
+        margin: 0;
+        padding: 20px;
+        max-width: 900px;
+        margin: 0 auto;
   }
 }
